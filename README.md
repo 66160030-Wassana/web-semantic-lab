@@ -5,7 +5,7 @@
 - Form Validation 
 - ARIA Labels
 ## git command used in this lab
--git clone https://github.com/66160030-Wassana/web-semantic-lab
+- git clone https://github.com/66160030-Wassana/web-semantic-lab
 -git add README.md
 -git commit -m "comment"
 -git push
